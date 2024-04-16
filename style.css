@@ -1,0 +1,17 @@
+#rpsGame{
+    background-color: aqua;
+}
+
+.chooseBtn {
+    background-color: #000305; /* Black background */
+    color: #fff; /* White text color */
+    border: none; /* Remove button borders */
+    padding: 10px 20px; /* Add padding to the buttons */
+    margin: 5px; /* Add margin between buttons */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    border-radius: 5px; /* Add rounded corners */
+}
+
+.chooseBtn:hover {
+    background-color: #acacac; /* lighter Grey on hover */
+}
